@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olachoppa
 - 👀 I’m interested in anything cool
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning web-development 
 - 💞️ I’m looking to collaborate on not sure,but if it sounds interesting,i'm in.
 - 📫 How to reach me @sukuna0fc on telegram
 - 😄 Pronouns: Sir,he,Him,"HIM".
